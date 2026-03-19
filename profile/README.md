@@ -19,7 +19,7 @@ A **high-performance, cross-platform C library** designed for efficient color co
 ### Key Features
 
 * Full **24-bit true color support** for console rendering and visualization
-* Precise mathematical implementations for major color spaces:
+* Precise mathematical implementations for the following major color spaces:
 
   * **RGB**
   * **HSV / HSB**
@@ -29,6 +29,9 @@ A **high-performance, cross-platform C library** designed for efficient color co
   * **LAB**
   * **LUV**
   * **LCH**
+  * **Linear**
+  * **Contrast**
+    
 * Designed with **no external dependencies**
 * Available as **static or dynamic libraries** for flexible integration
 
