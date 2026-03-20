@@ -31,6 +31,7 @@ A **high-performance, cross-platform C library** designed for efficient color co
   * **LCH**
   * **Linear**
   * **Contrast**
+  * **Tone**
     
 * Designed with **no external dependencies**
 * Available as **static or dynamic libraries** for flexible integration
